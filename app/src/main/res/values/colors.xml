@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- IMC Colors App-->
+    <color name="background_component">#4C4D57</color>
+    <color name="background_component_selected">#FF111328</color>
+    <color name="background_app">#272727</color>
+    <color name="background_button">#4B1CB9</color>
+    <color name="title_text">#FFFFFF</color>
+
+    <color name="low_weight">#FFC500</color>
+    <color name="good_weight">#15A810</color>
+    <color name="lot_weight">#F67503</color>
+    <color name="very_lot_weight">#D81111</color>
+
+    <!-- Todo Colors App-->
+    <color name="todo_background_card">#28168E</color>
+    <color name="todo_background_disabled">#4C4D57</color>
+    <color name="background_app_todo">#5138DD</color>
+    <color name="todo_subtitle_text">#C5C0BE</color>
+    <color name="todo_accent">#EF0534</color>
+
+    <color name="todo_business_category">#E86A09</color>
+    <color name="todo_personal_category">#0FBCCC</color>
+    <color name="todo_other_category">#5BC833</color>
+
+</resources>
